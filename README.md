@@ -173,7 +173,7 @@ Here are some screenshots of **G_Alert** in action:
 
 Watch the demo video here:
 
-[![Watch the demo](https://github.com/zione-kushwaha/g_alert/raw/main/assets/video/g_alert_video.mp4)](https://github.com/zione-kushwaha/g_alert/raw/main/assets/video/g_alert_video.mp4)
+[![Watch the demo](assets/video/g_alert_video.mp4))
 
 ## 🤝 Contributing
 
