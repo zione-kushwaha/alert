@@ -151,7 +151,7 @@ Here are some screenshots of **G_Alert** in action:
 
 ### ❌ Failure Alert
 
-![Failure Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g.jpg)
+![Failure Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g2.jpg)
 
 ### ❓ Question Alert
 
