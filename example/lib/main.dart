@@ -40,6 +40,8 @@ class AnimatedAlertExample extends StatelessWidget {
               buttonText: 'Success Alert',
               onSuccess: () {
                 Navigator.pop(context);
+
+                ScaffoldMessenger.of(context).hideCurrentSnackBar();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(content: Text('Action completed successfully!')),
                 );
@@ -55,6 +57,7 @@ class AnimatedAlertExample extends StatelessWidget {
               buttonText: 'Invalid Alert',
               onFailure: () {
                 Navigator.pop(context);
+                ScaffoldMessenger.of(context).hideCurrentSnackBar();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(content: Text('Action failed!')),
                 );
@@ -70,6 +73,7 @@ class AnimatedAlertExample extends StatelessWidget {
               buttonText: 'Failure Alert',
               onFailure: () {
                 Navigator.pop(context);
+                ScaffoldMessenger.of(context).hideCurrentSnackBar();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(content: Text('Action failed!')),
                 );
@@ -85,6 +89,7 @@ class AnimatedAlertExample extends StatelessWidget {
               buttonText: 'Timeout Alert',
               onFailure: () {
                 Navigator.pop(context);
+                ScaffoldMessenger.of(context).hideCurrentSnackBar();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(content: Text('Action failed!')),
                 );
@@ -100,6 +105,7 @@ class AnimatedAlertExample extends StatelessWidget {
               buttonText: 'Custom Alert',
               onFailure: () {
                 Navigator.pop(context);
+                ScaffoldMessenger.of(context).hideCurrentSnackBar();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(content: Text('Action failed!')),
                 );
@@ -115,12 +121,14 @@ class AnimatedAlertExample extends StatelessWidget {
               buttonText: 'Question Alert',
               onSuccess: () {
                 Navigator.pop(context);
+                ScaffoldMessenger.of(context).hideCurrentSnackBar();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(content: Text('Action successful!')),
                 );
               },
               onFailure: () {
                 Navigator.pop(context);
+                ScaffoldMessenger.of(context).hideCurrentSnackBar();
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(content: Text('Action failed!')),
                 );

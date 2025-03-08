@@ -2,7 +2,7 @@
 
 A highly customizable and easy-to-use alert dialog package for Flutter. This package provides a simple way to display beautiful alert dialogs with support for success, failure, and custom alerts. Perfect for apps that need a clean and consistent way to show messages to users.
 
-## Features
+## ✨ Features
 
 - **Customizable Alerts**: Display alerts with custom titles, messages, and icons.
 - **Predefined Alert Types**: Use built-in alert types like `success`, `failure`, `question`, `invalid`, and `timeout`.
@@ -11,7 +11,7 @@ A highly customizable and easy-to-use alert dialog package for Flutter. This pac
 - **Customizable Buttons**: Add success and failure buttons with custom text and styles.
 - **Flexible Styling**: Customize colors, text styles, and border radius.
 
-## Installation
+## 📦 Installation
 
 Add the following dependency to your `pubspec.yaml` file:
 
@@ -26,9 +26,9 @@ Then, run:
 flutter pub get
 ```
 
-## Usage
+## 🚀 Usage
 
-### Basic Alert
+### 🔹 Basic Alert
 
 ```dart
 import 'package:g_alert/g_alert.dart';
@@ -41,7 +41,7 @@ Alert.show(
 );
 ```
 
-### Alert with Buttons
+### 🔹 Alert with Buttons
 
 ```dart
 Alert.show(
@@ -58,7 +58,7 @@ Alert.show(
 );
 ```
 
-### Custom Alert
+### 🔹 Custom Alert
 
 ```dart
 Alert.show(
@@ -76,7 +76,7 @@ Alert.show(
 );
 ```
 
-### Dark Mode
+### 🔹 Dark Mode
 
 ```dart
 Alert.show(
@@ -87,9 +87,9 @@ Alert.show(
 );
 ```
 
-## Customization
+## 🎨 Customization
 
-### Alert Types
+### 🔹 Alert Types
 
 The package supports the following alert types:
 
@@ -100,7 +100,7 @@ The package supports the following alert types:
 - `AlertType.timeout`
 - `AlertType.custom`
 
-### Customizing Styles
+### 🔹 Customizing Styles
 
 ```dart
 Alert.show(
@@ -115,7 +115,7 @@ Alert.show(
 );
 ```
 
-### Customizing Buttons
+### 🔹 Customizing Buttons
 
 ```dart
 Alert.show(
@@ -141,17 +141,55 @@ Alert.show(
 );
 ```
 
-## Contributing
+## 📸 Screenshots
+
+Here are some screenshots of **G_Alert** in action:
+
+### ✅ Success Alert
+
+![Success Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g1.jpg)
+
+### ❌ Failure Alert
+
+![Failure Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g.jpg)
+
+### ❓ Question Alert
+
+![Question Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g3.jpg)
+
+### 🔷 Custom Alert
+
+![Custom Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g4.jpg)
+
+### 🌙 Dark Mode
+
+![Dark Mode](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g5.jpg)
+
+### 🎭 Custom Buttons
+
+![Custom Buttons](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g6.jpg)
+
+## 🎥 Demo Video
+
+Watch the demo video here:
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/zione-kushwaha/g_alert/raw/main/assets/video/g_alert_video.mp4)
+
+## 🤝 Contributing
 
 Contributions are welcome! If you find a bug or want to suggest a feature, please open an issue on the [GitHub repository](https://github.com/zione-kushwaha/g_alert.git).
 
-## License
+## 📜 License
 
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Support
+## 💬 Support
 
 For any issues or questions, reach out via:
 
 - **Email:** zionekushwaha@gmail.com
 - **GitHub Issues:** [Open an Issue](https://github.com/zione-kushwaha/g_alert/issues)
+
+---
+
+Made with ❤️ by [Zione Kushwaha](https://github.com/zione-kushwaha) 🚀
