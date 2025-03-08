@@ -1,3 +1,8 @@
+## 0.0.4
+
+- update the deprecated onPopInvoked with onPopInvokedWithResult
+- minor changes in documentation
+
 ## 0.0.3
 
 - Arranged screenshots and demo video to README.

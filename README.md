@@ -17,7 +17,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  g_alert: ^0.0.3
+  g_alert: ^0.0.4
 ```
 
 Then, run:
@@ -160,12 +160,6 @@ Here are some screenshots of **G_Alert** in action:
   </table>
 </div>
 
-## 🎥 Demo Video
-
-Watch the demo video here:
-
-[![Watch the demo](assets/video/g_alert_video.mp4)]
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you find a bug or want to suggest a feature, please open an issue on the [GitHub repository](https://github.com/zione-kushwaha/g_alert.git).
@@ -183,4 +177,4 @@ For any issues or questions, reach out via:
 
 ---
 
-Made with ❤️ by [Zione Kushwaha](https://github.com/zione-kushwaha) 🚀
+Made with ❤️ by [Jeevan Kumar Kushwaha](https://github.com/zione-kushwaha) 🚀

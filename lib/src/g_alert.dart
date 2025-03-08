@@ -17,7 +17,7 @@ class Alert {
     bool isDarkMode = false,
     double borderRadius = 10.0,
     bool canPop = true,
-    void Function(bool)? onPopInvoked,
+    PopInvokedWithResultCallback<dynamic>? onPopInvoked,
 
     // Success button (optional)
     VoidCallback? onSuccess,
@@ -43,7 +43,7 @@ class Alert {
         builder: (context) {
           return PopScope(
             canPop: canPop,
-            onPopInvoked: onPopInvoked,
+            onPopInvokedWithResult: onPopInvoked,
             child: Theme(
               data: theme,
               child: AlertDialog(
