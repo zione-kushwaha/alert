@@ -154,4 +154,4 @@ This package is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any issues or questions, reach out via:
 
 - **Email:** zionekushwaha@gmail.com
-- **GitHub Issues:** [Open an Issue](https://github.com/zione-kushwaha/alert.git)
+- **GitHub Issues:** [Open an Issue](https://github.com/zione-kushwaha/alert.git/Issues)
