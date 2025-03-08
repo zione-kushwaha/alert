@@ -149,31 +149,31 @@ Here are some screenshots of **G_Alert** in action:
 
 ![Success Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g1.jpg)
 
-### ❌ Failure Alert
-
-![Failure Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g2.jpg)
-
 ### ❓ Question Alert
 
-![Question Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g3.jpg)
+![Question Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g2.jpg)
 
-### 🔷 Custom Alert
+### ❌ Failure Alert
 
-![Custom Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g4.jpg)
+![Failure Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g3.jpg)
 
-### 🌙 Dark Mode
+### 🔷 invalid Alert
 
-![Dark Mode](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g5.jpg)
+![Invalid Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g4.jpg)
 
-### 🎭 Custom Buttons
+### Custom Alert
 
-![Custom Buttons](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g6.jpg)
+![Custom Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g5.jpg)
+
+### 🎭 Timeout alert
+
+![Timeout Alert](https://github.com/zione-kushwaha/g_alert/raw/main/assets/images/g6.jpg)
 
 ## 🎥 Demo Video
 
 Watch the demo video here:
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/zione-kushwaha/g_alert/raw/main/assets/video/g_alert_video.mp4)
+[![Watch the demo](https://github.com/zione-kushwaha/g_alert/raw/main/assets/video/g_alert_video.mp4)](https://github.com/zione-kushwaha/g_alert/raw/main/assets/video/g_alert_video.mp4)
 
 ## 🤝 Contributing
 
