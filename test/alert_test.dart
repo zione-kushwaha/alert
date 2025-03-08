@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:g_alert/alert.dart'; // Import your package
+import 'package:g_alert/g_alert.dart';
 
 void main() {
   testWidgets('Alert dialog shows correctly', (WidgetTester tester) async {
