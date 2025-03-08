@@ -1,7 +1,7 @@
-name: alert
+name: g_alert
 description: "A customizable alert dialog package for Flutter with support for success, failure, and custom alerts"
 version: 0.0.1
-homepage: https://github.com/zione-kushwaha/alert.git
+homepage: https://github.com/zione-kushwaha/g_alert.git
 
 environment:
   sdk: ^3.6.0

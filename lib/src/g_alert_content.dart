@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'alert.dart'; // Import the AlertType enum
+import 'g_alert.dart'; // Import the AlertType enum
 
 /// A private widget that builds the content of the alert dialog.
 class AlertContent extends StatelessWidget {

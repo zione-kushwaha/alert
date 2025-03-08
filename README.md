@@ -1,4 +1,4 @@
-# Alert Package
+# G_Alert Package
 
 A highly customizable and easy-to-use alert dialog package for Flutter. This package provides a simple way to display beautiful alert dialogs with support for success, failure, and custom alerts. Perfect for apps that need a clean and consistent way to show messages to users.
 
@@ -17,7 +17,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  alert: ^1.0.0
+  g_alert: ^1.0.0
 ```
 
 Then, run:
@@ -31,7 +31,7 @@ flutter pub get
 ### Basic Alert
 
 ```dart
-import 'package:alert/alert.dart';
+import 'package:g_alert/g_alert.dart';
 
 Alert.show(
   context: context,
@@ -143,7 +143,7 @@ Alert.show(
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or want to suggest a feature, please open an issue on the [GitHub repository](https://github.com/zione-kushwaha/alert.git).
+Contributions are welcome! If you find a bug or want to suggest a feature, please open an issue on the [GitHub repository](https://github.com/zione-kushwaha/g_alert.git).
 
 ## License
 
@@ -154,4 +154,4 @@ This package is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any issues or questions, reach out via:
 
 - **Email:** zionekushwaha@gmail.com
-- **GitHub Issues:** [Open an Issue](https://github.com/zione-kushwaha/alert/issues)
+- **GitHub Issues:** [Open an Issue](https://github.com/zione-kushwaha/g_alert/issues)

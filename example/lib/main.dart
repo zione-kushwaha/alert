@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:alert/alert.dart';
+import 'package:g_alert/g_alert.dart';
 
 void main() {
   runApp(const MyApp());

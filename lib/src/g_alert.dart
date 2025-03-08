@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'alert_content.dart';
+import 'g_alert_content.dart';
 
 class Alert {
   /// Shows a custom alert dialog with optional Success and Failure buttons.
