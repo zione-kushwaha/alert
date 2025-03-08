@@ -17,7 +17,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  g_alert: ^0.0.2
+  g_alert: ^0.0.3
 ```
 
 Then, run:
